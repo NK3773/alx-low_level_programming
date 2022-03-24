@@ -1,8 +1,8 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 /**
   * print_number - we're printing some serious numbers
-  * @n: that's the number, fear it.
+  * @n: that's the number.
   *
   * Return: void
   */
