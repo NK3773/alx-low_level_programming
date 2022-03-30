@@ -1,1 +1,1 @@
-A markdow file for alx low level programming project
+A markdown file for alx low level programming project
